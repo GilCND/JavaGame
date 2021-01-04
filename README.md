@@ -2,7 +2,8 @@
 ## Game project developed during my course at NSCC
 
 # Part 1
-INSTRUCTIONS
+## INSTRUCTIONS
+
 For this project, you will create an arcade-style single player game that implements the following:
 1. threading to control the movement of background items
 2. a keylistener to control player interaction
@@ -10,7 +11,8 @@ For this project, you will create an arcade-style single player game that implem
 
 
 # Part 2
-INSTRUCTIONS
+## INSTRUCTIONS
+
 For this project, you are to modify the game you developed for Game Project #1 to accommodate multi-player interaction.
 Your game must support client-server interaction through a network socket.
 Player positions, player names, background item coordinates, and game scores must be sent to the server application and stored in a server-side database.
